@@ -24,3 +24,14 @@ Greeting of the Day!!<br>Thank you for visiting my Page.<br><br>Currently workin
 [![](https://visitcount.itsvg.in/api?id=MoreJignesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125395862-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125395862-1');
+</script>
+

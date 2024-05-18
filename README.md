@@ -26,7 +26,7 @@ Greeting of the Day!!<br>Thank you for visiting my Page.<br><br>Currently workin
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125395862-1"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125395862-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -34,4 +34,4 @@ Greeting of the Day!!<br>Thank you for visiting my Page.<br><br>Currently workin
 
   gtag('config', 'UA-125395862-1');
 </script>
-
+-->
